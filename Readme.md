@@ -1,4 +1,4 @@
 # Owl Say
 ### An original software
 
-![ Incredible results! ](https://imgur.com/a/cRtmYI5 "The owl")
+![ Incredible results! ](https://i.imgur.com/NyEG8rY.png "The owl")
